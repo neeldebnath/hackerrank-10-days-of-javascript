@@ -1,2 +1,2 @@
-# hackerrank-10-days-of-javascript
+# hackerRank's "10 days of Javascript" challenges
 Solution for all the problems of "10 days of Javascript" in HackerRank
