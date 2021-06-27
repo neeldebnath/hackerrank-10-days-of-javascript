@@ -22,8 +22,9 @@ You've got this!
 
 Print the following two lines of output:
 
-On the first line, print `Hello, World!` (this is provided for you in the editor).
-On the second line, print the contents of **_parameterVariable_**.
+1. On the first line, print `Hello, World!` (this is provided for you in the editor).
+2. On the second line, print the contents of **_parameterVariable_**.
+
 **Sample Input 0**
 
 ```
@@ -44,7 +45,7 @@ We printed two lines of output:
 We printed the literal string `Hello, World!` using the code provided in the editor.
 The value of **_parameterVariable_** passed to our main function in this Sample Case was Welcome to 10 Days of JavaScript!. We then passed our variable to console.log, which printed the contents of **_parameterVariable_**.
 
-### Solution
+### My Solution
 
 ```javascript
 function greeting(parameterVariable) {
