@@ -14,13 +14,13 @@ Complete the following functions in the editor below:
 
 **Input Format**
 
-|**getArea**|
+**_getArea_**
 | **Data Type** | **Parameter** | **Description** |
 --------------- | ------------- | ----------------
 Number | _length_ | A number denoting the length of rectangle.
 Number | _height_ | A number denoting the height of rectangle.
 
-|**getPerimeter(length, height)**|
+**_getPerimeter(length, height)_**
 | **Data Type** | **Parameter** | **Description** |
 --------------- | ------------- | ----------------
 Number | _length_ | A number denoting the length of rectangle.
@@ -54,8 +54,8 @@ Number | _height_ | A number denoting the height of rectangle.
 
 **Explanation 0**
 
-The area of the rectangle is **_length × width = 3 × 4.5 = 13.5_**.
-The perimeter of the rectangle is **_2 • (length + width) = 2 • (3 + 4.5) = 15_**.
+- The area of the rectangle is **_length × width = 3 × 4.5 = 13.5_**.
+- The perimeter of the rectangle is **_2 • (length + width) = 2 • (3 + 4.5) = 15_**.
 
 ### My Solution
 
