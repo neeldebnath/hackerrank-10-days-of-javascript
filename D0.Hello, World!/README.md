@@ -46,7 +46,7 @@ The value of **_parameterVariable_** passed to our main function in this Sample 
 
 ### Solution
 
-```
+```javascript
 function greeting(parameterVariable) {
   // This line prints 'Hello, World!' to the console:;
   console.log("Hello, World!");
