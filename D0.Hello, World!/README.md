@@ -14,9 +14,9 @@ You've got this!
 
 **Input Format**
 
-Data Type | Parameter | Description
---------- | --------- | -----------
-string | **_parameterVariable_** | A single line of text containing one or more space-separated words.
+| Data Type | Parameter               | Description                                                         |
+| --------- | ----------------------- | ------------------------------------------------------------------- |
+| string    | **_parameterVariable_** | A single line of text containing one or more space-separated words. |
 
 **Output Format**
 
@@ -29,15 +29,28 @@ On the second line, print the contents of **_parameterVariable_**.
 ```
 Welcome to 10 Days of JavaScript!
 ```
+
 **Sample Output 0**
 
 ```
 Hello, World!
 Welcome to 10 Days of JavaScript!
 ```
+
 **Explanation 0**
 
 We printed two lines of output:
 
 We printed the literal string `Hello, World!` using the code provided in the editor.
 The value of **_parameterVariable_** passed to our main function in this Sample Case was Welcome to 10 Days of JavaScript!. We then passed our variable to console.log, which printed the contents of **_parameterVariable_**.
+
+### Solution
+
+```
+function greeting(parameterVariable) {
+  // This line prints 'Hello, World!' to the console:;
+  console.log("Hello, World!");
+  console.log(parameterVariable);
+  // Write a line of code that prints parameterVariable to stdout using console.log:
+}
+```
