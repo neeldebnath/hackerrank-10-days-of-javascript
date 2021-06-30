@@ -1,4 +1,4 @@
-# Day 2: Conditional Statements: Switc
+# Day 2: Conditional Statements: Switch
 
 **Objective**
 
