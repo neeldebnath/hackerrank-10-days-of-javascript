@@ -17,7 +17,7 @@ A single integer, **_r_**, denoting the radius of a circle.
 
 **Constraints**
 
-- **_0 <> n ≤ 100_**
+- **_0 < n ≤ 100_**
 - **_r_** is a floating-point number scaled to at most **_3_** decimal places.
 
 **Output Format**
