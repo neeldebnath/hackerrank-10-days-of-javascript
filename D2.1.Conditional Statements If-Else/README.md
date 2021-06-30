@@ -8,12 +8,12 @@ In this challenge, we learn about if-else statements. Check out the attached tut
 
 Complete the _getGrade(score)_ function in the editor. It has one parameter: an integer, **_score_**, denoting the number of points Julia earned on an exam. It must return the letter corresponding to her **_grade_** according to the following rules:
 
-If **_25 < score ≤ 30_**, then **_grade = A_**.
-If **_20 < score ≤ 25_**, then **_grade = B_**.
-If **_15 < score ≤ 20_**, then **_grade = C_**.
-If **_10 < score ≤ 15_**, then **_grade = D_**.
-If **_5 < score ≤ 10_**, then **_grade = E_**.
-If **_0 ≤ score ≤ 5_**, then **_grade = F_**.
+- If **_25 < score ≤ 30_**, then **_grade = A_**.
+- If **_20 < score ≤ 25_**, then **_grade = B_**.
+- If **_15 < score ≤ 20_**, then **_grade = C_**.
+- If **_10 < score ≤ 15_**, then **_grade = D_**.
+- If **_5 < score ≤ 10_**, then **_grade = E_**.
+- If **_0 ≤ score ≤ 5_**, then **_grade = F_**.
 
 **Input Format**
 
